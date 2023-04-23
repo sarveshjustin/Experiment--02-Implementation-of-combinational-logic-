@@ -53,12 +53,12 @@ endmodule
 ```
 ### OUTPUT
 ## RTL 
-![image](https://user-images.githubusercontent.com/113497347/233157375-87f063b9-efff-4801-9086-d4e624b2743b.png)
-![image](https://user-images.githubusercontent.com/113497347/233157429-b5bf9535-caca-40e6-b97a-30769d3af319.png)
+![image](sar.png)
+![image](sar2.png)
 
 ## Timing Diagram
-![image](https://user-images.githubusercontent.com/113497347/233157742-1fb9a45f-b19a-42a9-b7c7-fdade56bc6ba.png)
-![image](https://user-images.githubusercontent.com/113497347/233157811-32f8e226-1878-494a-8693-004c0f008ef0.png)
+![image](sar3.png)
+![image]sar4.png)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
