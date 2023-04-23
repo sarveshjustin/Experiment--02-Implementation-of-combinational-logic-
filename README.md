@@ -53,7 +53,7 @@ endmodule
 ```
 ### OUTPUT
 ## RTL 
-![image](sar.png)
+![image](sar1.png)
 ![image](sar2.png)
 
 ## Timing Diagram
